@@ -1,0 +1,7 @@
+Yellow_tool: Detected=8, Not Detected=0, Accuracy=100.0%
+Multimeter: Detected=8, Not Detected=3, Accuracy=72.72727272727273%
+Tape: Detected=9, Not Detected=3, Accuracy=75.0%
+Ninja: Detected=0, Not Detected=10, Accuracy=0.0%
+Screwdriver: Detected=4, Not Detected=6, Accuracy=40.0%
+Hot_glue: Detected=6, Not Detected=8, Accuracy=42.857142857142854%
+Overall: Total Detected=35, Total Not Detected=30, Overall Accuracy=53.84615384615385%
